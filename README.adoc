@@ -1,0 +1,11 @@
+= 法人基本３情報
+
+== 概要
+「行政手続における特定の個人を識別するための法人番号の利用等に関する法律」施行にあたり、公表された
+基本3情報（商号又は名称／所在地／法人番号）のCSV形式のデータ
+
+== データ元
+http://www.houjin-bangou.nta.go.jp/download/[国税庁法人番号表サイト:基本３情報ダウンロード]
+
+== ライセンス
+https://creativecommons.org/publicdomain/zero/1.0/deed.ja[CC0 1.0]
